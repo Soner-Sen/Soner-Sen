@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soner-sen&label=Profile%20views&color=0e75b6&style=flat" alt="soner-sen" /> </p>
 
-- 📫 How to reach me **pinson.dev@gmail.com**
-
 - ⚡ Fun fact **Cows moo with regional accents.**
 
 <h3 align="left">Connect with me:</h3>
